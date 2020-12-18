@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mtnzvYkOpUuKjGEpqv4YEI2ULptlYrVZstVSsHsAVo3TwgM7H9kdDNLaRfDjzNTQFBQWoNRq8E2aMpFeCt0pEw==",
+  "dgSpecHash": "fgrQ0Q4JH3BDzxo6rsM0iV9uwks/Od4/aMYKCr6GS/vDbiFaDUjE7Cs0cxXoiOJbdCrzVHEYb0+D7FcUa1BlzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\itzda\\dotnet\\myWebApp\\myWebApp.csproj",
+  "projectFilePath": "/Users/daniel/aspnet/aspnet/myWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

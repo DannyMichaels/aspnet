@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itzda\\dotnet\\myWebApp\\myWebApp.csproj": {}
+    "/Users/daniel/aspnet/aspnet/myWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itzda\\dotnet\\myWebApp\\myWebApp.csproj": {
+    "/Users/daniel/aspnet/aspnet/myWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itzda\\dotnet\\myWebApp\\myWebApp.csproj",
+        "projectUniqueName": "/Users/daniel/aspnet/aspnet/myWebApp.csproj",
         "projectName": "myWebApp",
-        "projectPath": "C:\\Users\\itzda\\dotnet\\myWebApp\\myWebApp.csproj",
-        "packagesPath": "C:\\Users\\itzda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itzda\\dotnet\\myWebApp\\obj\\",
+        "projectPath": "/Users/daniel/aspnet/aspnet/myWebApp.csproj",
+        "packagesPath": "/Users/daniel/.nuget/packages/",
+        "outputPath": "/Users/daniel/aspnet/aspnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\itzda\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/daniel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
